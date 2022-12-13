@@ -1,0 +1,75 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#labels {
+  color: brown;
+  font-size: 20px;
+}
+
+#box {
+  border: 2px solid green;
+  /*border-top: ;*/
+  padding: 15px;
+  border-radius: 25px;
+  width: auto;
+}
+
+/* Set a style for all buttons */
+button {
+  background-color: rgb(0, 200, 0);
+  color: white;
+  padding: 10px 9px;
+  margin: 5px 0;
+  border-radius: 10px;
+  border: 2px solid rgb(90, 78, 78);
+  cursor: pointer;
+  transition-duration: 0.2s;
+  /* width: 20%; 
+  height: 5%; */
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+.btnsubmit {
+  /* background-color: green; */
+  color: black;
+}
+
+.btnreset {
+  background-color: red;
+  color: white;
+  position: relative;
+}
+
+.btnupdate {
+  background-color: rgb(26, 117, 170);
+  color: white;
+  position: relative;
+}
+
+.btnfile {
+  background-color: rgb(101, 126, 139);
+  color: rgb(46, 52, 55);
+  position: relative;
+  height: 15px;
+  
+}
+
+/* Full-width input fields */
+input[type=text],
+input[type=password] {
+  width: 90%;
+  padding: 10px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+#myrelativeposition {}
+
+/*Fixed*/
+/*Sticky*/

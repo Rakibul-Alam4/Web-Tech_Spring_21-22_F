@@ -1,0 +1,20 @@
+[
+    {
+        "username": "Jasif",
+        "password": "jasif1234",
+        "email": null,
+        "avatar": "Jasif.jpg"
+    },
+    {
+        "username": "Jasif00",
+        "password": "jasif1234",
+        "email": null,
+        "avatar": "Jasif00.jpg"
+    },
+    {
+        "username": "shihab",
+        "password": "shihab1234",
+        "email": "shihab@abc.com",
+        "avatar": "shihab.jpg"
+    }
+]

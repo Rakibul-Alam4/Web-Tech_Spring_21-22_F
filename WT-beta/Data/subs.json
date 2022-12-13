@@ -1,0 +1,29 @@
+[
+    {
+        "username": "Safin1234",
+        "password": "Safin1234",
+        "email": "",
+        "phone": "0123456789",
+        "package": "5mbps",
+        "ip": "Shared IP",
+        "avatar": "Safin1234.jpg1.jpg"
+    },
+    {
+        "username": "SafinZaman",
+        "password": "SAFAEWFQ3",
+        "email": "",
+        "phone": "",
+        "package": "5mbps",
+        "ip": "Shared IP",
+        "avatar": "SafinZaman.jpg"
+    },
+    {
+        "username": "Shazid",
+        "password": "12345678",
+        "email": "shazid@gmail.com",
+        "phone": "1234567890",
+        "package": "10mbps",
+        "ip": "Shared IP",
+        "avatar": "Shazid.jpg1.jpg"
+    }
+]
